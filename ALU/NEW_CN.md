@@ -8,9 +8,9 @@
 > > 2
 > > (输出)4
 
-#### 特别注明：
-> ```doc
-> 支持人员：
+## 特别注明：
+# 
+#### 支持人员：
 ###### GitHub PaJinSenhcy
 `www.github.com/PaJinSenhcy`
 ###### 
